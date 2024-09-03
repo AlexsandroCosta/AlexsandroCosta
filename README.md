@@ -1,10 +1,8 @@
-## Hi there 👋
-
-# Olá, eu sou Alexsandro Costa! 👍
+## Olá, eu sou Alexsandro Costa! 👍
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexsandroCosta&show_icons=true&theme=dracula)
 
 ## 📫 Contato
 
