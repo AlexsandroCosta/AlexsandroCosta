@@ -11,6 +11,8 @@
 
 ## 📈 Estatísticas do GitHub
 
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AlexsandroCosta&theme=dark)
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexsandroCosta&show_icons=true&theme=dark)
 
 ## 📫 Contato
