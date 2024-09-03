@@ -1,6 +1,6 @@
 ## Olá, eu sou Alexsandro 👍
 
-🎓 Estudante de Ciência da Computação e Técnico em Informática no IFCE, com interesse em desenvolvimento backend, APIs, automação de testes e bancos de dados.
+🎓 Estudante de Ciência da Computação e Técnico em Informática no IFCE. Tenho interesse em desenvolvimento backend, APIs, automação de testes e bancos de dados.
 
 ## 🔧 Tecnologias e Ferramentas
 
