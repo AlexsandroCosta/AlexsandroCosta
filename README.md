@@ -4,7 +4,7 @@
 
 ## 🔧 Tecnologias e Ferramentas
 
-- **Linguagens:** Python
+- **Linguagens:**  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Frameworks:** Django
 - **Banco de Dados:** PostgreSQL
 - **Ferramentas:** Git, Selenium, Swagger
