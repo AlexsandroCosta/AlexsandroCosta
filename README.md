@@ -16,6 +16,5 @@
 
 ## 📫 Contato
 
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu_usuario)
 - **Email:** [Alexsandro.costasv@gmail.com](mailto:Alexsandro.costasv@gmail.com)
 
